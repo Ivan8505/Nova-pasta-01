@@ -52,3 +52,29 @@
     background-color: #DAEFE5;
     height: 15vh;    
 }
+.amarelo-header{
+    border: 10px solid #B4DFCD;
+    background-color: #DAEFE5;
+    height: 15vh;
+}
+.amarelo-section{
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px solid #B4DFCD;
+    background-color: #DAEFE5;
+    display: inline-block;
+    height: 75vh;
+    width: 67.3%;
+}
+.amarelo-nav{
+    border: 10px solid #B4DFCD;
+    background-color: #DAEFE5;
+    display: inline-block;
+    height: 75vh;
+    width: 13vw;
+}
+.amarelo-footer{
+    border: 10px solid #B4DFCD;
+    background-color: #DAEFE5;
+    height: 15vh;    
+}
