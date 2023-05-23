@@ -1,0 +1,28 @@
+*{
+    margin: 5px;
+    padding: 0;
+}
+header{
+    border: 10px solid #B8BDE6;
+    height: 15vh;
+    background-color: #D4EEF9;
+}
+nav{
+    display: inline-block;
+    border: 10px solid #B8BDE6;
+    background-color: #D4EEF9;
+    height: 75vh;
+    width: 13vw;
+}
+section{
+    border: 10px solid #B8BDE6;
+    background-color: #D4EEF9;
+    display: inline-block;
+    height: 75vh;
+    width: 82.2%;
+}
+footer{
+    border: 10px solid #B8BDE6;
+    background-color: #D4EEF9;
+    height: 15vh;    
+}
