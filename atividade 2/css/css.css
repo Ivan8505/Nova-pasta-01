@@ -1,0 +1,36 @@
+.azul{
+    border: 10px solid #B8BDE6;
+    background-color: #D4EEF9;   
+}
+
+.verde{
+    border: 10px solid #B4DFCD;
+    background-color: #DAEFE5;
+}
+
+.amarelo{
+    border: 10px solid #FFF5B6;
+    background-color: #FFFADB;
+}
+
+.rosa{
+    border: 10px solid #FFB9B9;
+    background-color: #FFDCDC;
+}
+
+.cinza{
+    border: 10px solid #CEC8C8;
+    background-color: #E7E4E5;
+}
+
+.header {
+    height: 15vh
+}
+
+.nav{
+    height: 60vh;
+}
+
+.article{
+    height: 20vh;
+}
