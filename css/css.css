@@ -73,8 +73,34 @@
     height: 75vh;
     width: 13vw;
 }
-.amarelo-footer{
-    border: 10px solid #FFF5B6;
-    background-color: #FFFADB;
+.rosa-footer{
+    border: 10px solid #FFB9B9;
+    background-color: #FFDCDC;
+    height: 15vh;    
+}
+.rosa-header{
+    border: 10px solid #FFB9B9;
+    background-color: #FFDCDC;
+    height: 15vh;
+}
+.rosa-section{
+    border: 10px solid #FFB9B9;
+    background-color: #FFDCDC;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+    height: 75vh;
+    width: 82.2%;
+}
+.rosa-nav{
+    border: 10px solid #FFB9B9;
+    background-color: #FFDCDC;
+    display: inline-block;
+    height: 75vh;
+    width: 13vw;
+}
+.rosa-footer{
+    border: 10px solid #FFB9B9;
+    background-color: #FFDCDC;
     height: 15vh;    
 }
