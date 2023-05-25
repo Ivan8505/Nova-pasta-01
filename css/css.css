@@ -105,27 +105,27 @@
     height: 15vh;    }
 
 .cinza-footer{
-    border: 10px solid #FFB9B9;
-    background-color: #FFDCDC;
+    border: 10px solid #CEC8C8;
+    background-color: #E7E4E5;
     height: 15vh;    }
 
 .cinza-header{
-    border: 10px solid #FFB9B9;
-    background-color: #FFDCDC;
+    border: 10px solid #CEC8C8;
+    background-color: #E7E4E5;
     height: 15vh;}
 
 .cinza-section{
-    border: 10px solid #FFB9B9;
-    background-color: #FFDCDC;
+    border: 10px solid #CEC8C8;
+    background-color: #E7E4E5;
     margin-left: auto;
     margin-right: auto;
     display: inline-block;
-    height: 75vh;
+    height: 22.3vh;
     width: 82.2%;}
 
 .cinza-nav{
-    border: 10px solid #FFB9B9;
-    background-color: #FFDCDC;
-    display: inline-block;
+    border: 10px solid #CEC8C8;
+    background-color: #E7E4E5;
+    float: left;
     height: 75vh;
     width: 13vw;}
